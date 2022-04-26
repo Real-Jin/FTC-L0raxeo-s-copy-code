@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 /**
  * The OpMode class is the main base of operations.
  * FYI: Op is short for operation. Tele is short for telephone
- *      Telephone Operation
+ *      Telephone Operations
  *
  * The Operation Mode class holds all of the main
  * methods that are used to actually run the robot.
