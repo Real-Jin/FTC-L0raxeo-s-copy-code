@@ -28,7 +28,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
  * This class also holds the instances of all of the main
  * objects within the robot's program such as the {@link DeviceMap}.
  */
-@TeleOp(name = "VeganFreeOpMode", group = "TeleOp")
+@TeleOp(name = "AntonOpMode", group = "TeleOp")
 public class AntonOpMode extends OpMode
 {
 
